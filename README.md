@@ -1,5 +1,8 @@
 # VR-Unity-Royale
 
+## About The Game
+The game is a clash royale style game on the VR platform. Twitch chat integration is available. It can be played with twich chat via voting logic. Another mode is the singplayer mode, as in the video.
+
 ## Gameplay video Link
 https://youtu.be/gJIcj8DWjgE
 
